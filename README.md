@@ -7,13 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# My First Header
-
-## A Smaller Header
-
-This is some text under the header.
-
-###### Smallest Header
+# My Markdown Header
 
 # Communicate using Markdown
 
