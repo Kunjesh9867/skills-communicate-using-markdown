@@ -7,6 +7,14 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+# My First Header
+
+## A Smaller Header
+
+This is some text under the header.
+
+###### Smallest Header
+
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
